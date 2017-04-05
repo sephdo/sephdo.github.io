@@ -3,13 +3,14 @@ title: sephdo.github.io
 email: josephfdonahue@gmail.com
 #description: > # this means to ignore newlines until "baseurl:"
 #  ""
+description: Insufferable.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sephdo
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minima
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
