@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Check out [Electoral Click](/ElectoralClick).
+Check out [Electoral Click](https://sephdo.github.io/ElectoralClick/).
