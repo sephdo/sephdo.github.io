@@ -9,7 +9,7 @@ github_username:  sephdo
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minima
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
